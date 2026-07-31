@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Nguyen%20Nam%20Trung%20Nguyen&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Nguyen Nam Trung Nguyen</h1>
-
-<h3 align="center">
-Software Engineering Student
-</h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+Backend+Developer;React+%7C+Spring+Boot+%7C+React+Native;Always+Learning+New+Technologies"/>
 </p>
