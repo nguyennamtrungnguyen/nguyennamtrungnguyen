@@ -63,28 +63,6 @@ Experienced with desktop, web, mobile, and full-stack application development wh
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennamtrungnguyen&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🎯 Current Focus
-
-- Java & Spring Boot
-- System Design
-- Microservices
-- Docker
-- Clean Architecture
-- Design Patterns
-- Data Structures & Algorithms
-
----
-
-## 📫 Connect With Me
-
-- 📧 **Email:** nguyennamtrungnguyen@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/nguy%C3%AAn-nguy%E1%BB%85n-nam-trung-8687a9381/
-- 📘 **Facebook:** https://www.facebook.com/trungnguyen1501.05
-
----
-
 <p align="center">
 <i>"Build software that solves problems, not just code that works."</i>
 </p>
