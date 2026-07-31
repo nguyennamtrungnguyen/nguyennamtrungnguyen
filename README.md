@@ -52,12 +52,9 @@ Experienced with desktop, web, mobile, and full-stack application development wh
 
 | 💻 Area | 🚀 Experience |
 |---------|---------------|
-| ☕ Backend | Java • Spring Boot • REST API |
-| 🌐 Web | React • HTML • CSS • JavaScript |
-| 📱 Mobile | React Native |
-| 🖥 Desktop | Java Desktop Applications |
-| 🔄 Full Stack | React + Spring Boot |
-
+| 🌐 Web | React • Spring boot |
+| 📱 Mobile | React Native + Spring boot |
+| 🖥 Desktop | Java Swing • JavaFX |
 ---
 
 # 📊 GitHub Activity
