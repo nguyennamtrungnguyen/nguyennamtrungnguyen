@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+Backend+Developer;React+%7C+Spring+Boot+%7C+React+Native;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+Backend+Developer;React+%7C+Spring+Boot+%7C+React+Native;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
