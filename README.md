@@ -19,34 +19,27 @@ Experienced with desktop, web, mobile, and full-stack application development wh
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 </p>
----
-# 👨‍💻 About Me
 
-- 🎓 Information Technology Student
-- 💻 Aspiring Software Engineer
-- ☕ Specializing in Java Backend Development
-- 🌍 Experience building desktop, web, mobile, and full-stack application development
-- 🚀 Passionate about scalable software, clean architecture, and modern development practices
-- 📚 Always learning through real-world projects and continuous exploration of new technologies
----
-# 🛠 Tech Stack
+- Information Technology Student
+- Aspiring Software Engineer
+- Specializing in Java Backend Development
+- Experience building desktop, web, mobile, and full-stack application development
+- Passionate about scalable software, clean architecture, and modern development practices
+- Always learning through real-world projects and continuous exploration of new technologies
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,tailwind,postgres,mysql,docker,git,github,postman,vscode,idea&perline=8"/>
 </p>
----
-# 💼 Areas of Experience
 
 | 💻 Area | 🚀 Experience |
 |---------|---------------|
 | 🌐 Web | React • Spring boot |
 | 📱 Mobile | React Native • Spring boot |
 | 🖥 Desktop | Java Swing • JavaFX |
----
-# 📊 GitHub Activity
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennamtrungnguyen&theme=tokyonight&hide_border=true"/>
 </p>
----
 <p align="center">
 <i>"Build software that solves problems, not just code that works."</i>
 </p>
