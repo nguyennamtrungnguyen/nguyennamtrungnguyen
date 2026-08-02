@@ -36,10 +36,3 @@ Experienced with desktop, web, mobile, and full-stack application development wh
 | 🌐 Web | React • Spring boot |
 | 📱 Mobile | React Native • Spring boot |
 | 🖥 Desktop | Java Swing • JavaFX |
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennamtrungnguyen&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-<i>"Build software that solves problems, not just code that works."</i>
-</p>
