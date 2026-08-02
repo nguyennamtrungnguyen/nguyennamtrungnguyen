@@ -19,20 +19,6 @@ Experienced with desktop, web, mobile, and full-stack application development wh
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 </p>
-
-- Information Technology Student
-- Aspiring Software Engineer
-- Specializing in Java Backend Development
-- Experience building desktop, web, mobile, and full-stack application development
-- Passionate about scalable software, clean architecture, and modern development practices
-- Always learning through real-world projects and continuous exploration of new technologies
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,tailwind,postgres,mysql,docker,git,github,postman,vscode,idea&perline=8"/>
 </p>
-
-| 💻 Area | 🚀 Experience |
-|---------|---------------|
-| 🌐 Web | React • Spring boot |
-| 📱 Mobile | React Native • Spring boot |
-| 🖥 Desktop | Java Swing • JavaFX |
