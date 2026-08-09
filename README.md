@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 Passionate about designing and building software across multiple platforms.<br>
-Experienced with desktop, web, mobile, and full-stack application development while continuously improving my software engineering skills.
+Experienced with desktop, web, mobile, and full-stack application development while continuously improving my software engineering skills
 </p>
 <p align="center">
 <a href="mailto:nguyennamtrungnguyen@gmail.com">
