@@ -8,6 +8,7 @@
 Passionate about designing and building software across multiple platforms.<br>
 Experienced with desktop, web, mobile, and full-stack application development while continuously improving my software skills
 </p>
+  <a href="https://nguyennamtrungnguyen.vercel.app/">Portfolio</a>
 <p align="center">
 <a href="mailto:nguyennamtrungnguyen@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -18,7 +19,7 @@ Experienced with desktop, web, mobile, and full-stack application development wh
 <a href="https://www.facebook.com/trungnguyen1501.05">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-  <a href="https://nguyennamtrungnguyen.vercel.app/">Portfolio</a>
+
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,tailwind,postgres,mysql,docker,git,github,postman,vscode,idea&perline=8"/>
