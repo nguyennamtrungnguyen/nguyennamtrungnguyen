@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+Backend+Developer;React+%7C+Spring+Boot+%7C+React+Native;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="center">
-  👋 Hello, I'm Nguyen Nam Trung Nguyen
-</h3>
-
 <p align="center">
   Passionate about designing and building software across multiple platforms.<br>
   Experienced with desktop, web, mobile, and full-stack application development.<br>
