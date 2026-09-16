@@ -18,6 +18,7 @@ Experienced with desktop, web, mobile, and full-stack application development wh
 <a href="https://www.facebook.com/trungnguyen1501.05">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
+  <a href="https://nguyennamtrungnguyen.vercel.app/">Portfolio</a>
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,tailwind,postgres,mysql,docker,git,github,postman,vscode,idea&perline=8"/>
