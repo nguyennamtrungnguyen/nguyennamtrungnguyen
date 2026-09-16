@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  👋 Hello, I'm Trung Nguyen
+  👋 Hello, I'm Nguyen Nam Trung Nguyen
 </h3>
 
 <p align="center">
@@ -40,49 +40,4 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,tailwind,postgres,mysql,docker,git,github,postman,vscode,idea&perline=8" />
-</p>
-
-<br>
-
-<h3 align="center">🚀 What I Work With</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-203A43?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-203A43?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile-React%20Native-203A43?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20PostgreSQL-203A43?style=for-the-badge" />
-</p>
-
-<br>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nguyen15012005&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen15012005&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyen15012005&theme=transparent&hide_border=true" />
-</p>
-
-<br>
-
-<h3 align="center">💡 Currently Learning</h3>
-
-<p align="center">
-  Java Backend Development • Spring Boot • RESTful API • Database Design<br>
-  React • React Native • Software Architecture • Testing
-</p>
-
-<br>
-
-<p align="center">
-  <i>“Always learning. Always building. Always improving.”</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:1D2128&height=120&section=footer" />
 </p>
